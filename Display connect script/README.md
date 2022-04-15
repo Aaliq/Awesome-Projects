@@ -1,4 +1,4 @@
-This is a raw implementation of a batch script to control your mobile device if the screen is broken
+This is a raw implementation of a batch script to control your mobile device if the screen is broken via adb and bash.. (just something I cooked up in the last 2 hours)
 This needs USB debugging turned on
 Execute the batch script called Dynamic Display.bat
 There are 2 modes Wired and Wireless
